@@ -1,6 +1,6 @@
 # Hi, I'm Matyáš 👋
 
-I'm an AI-native builder focused on automation systems and modern web applications.
+I build AI automation systems and modern web applications for service businesses.
 
 ## Current focus
 
